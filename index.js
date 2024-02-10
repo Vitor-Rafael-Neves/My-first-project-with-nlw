@@ -21,7 +21,7 @@ const perguntas = [
       '32',
       '64',
     ],
-    correta: 2
+    correta: 1
     },
     { pergunta: 'Quanto é 25% de 80?',
     respostas: [
@@ -37,7 +37,7 @@ const perguntas = [
       '15',
       '20',
     ],
-    correta: 0
+    correta: 1
     },
     { pergunta: 'Qual é a raiz quadrada de 144?',
     respostas: [
